@@ -1,0 +1,408 @@
+@font-face {
+    font-family: ifamily;
+    src: url(FontsFree-Net-SFProDisplay-Regular.ttf);
+}
+
+
+
+
+
+
+
+
+.header{
+    width: 100%;
+    height: 50px;
+    background:#121112;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+   
+   
+   
+}
+body{
+    margin: 0;
+}
+.apple{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+}
+.link{
+    text-decoration: none;
+}
+.font a{
+    color: white;
+    margin-left: 41px;
+    font-size: small;
+    width: 70%;
+    font-family: ifamily;
+    
+}
+.hai{
+    width: 87%;
+    height: 54%;
+    margin-top: 10px;
+}
+.search{
+    width: 20px;
+    height: 20px;
+    margin-right: 180px;
+}
+.apple2{
+    width: 50%;
+    height: 600px;
+    margin-left: 283px;
+    
+}
+.section{
+    width: 100%;
+    height: 100%;
+    background: black;
+}
+.h4{
+    color: white;
+    padding: 0;
+    margin-bottom: 0;
+    font-weight: 350;
+    font-size: large;
+    font-family: ifamily;
+    margin-left: 120px;
+    margin: top 0px;;
+    max-width: 1050px;
+    line-height: 1;
+}
+.button{
+    color: white;
+    background: black;
+    margin-left: 40%;
+    padding: 8px 22px;
+    border-radius: 60px;
+    width: 200px;
+    height: 50px;
+    border-color: antiquewhite;
+    border-width: 3px;
+    font-size: large;
+}
+.box{
+    background: black;
+    
+}
+.font3{
+    background: #090909;
+    color: white;
+    height: 150px;
+    margin-top: 50px;
+    padding-top: 50px;
+
+    
+}
+h6{
+    margin-left: 30%;
+    font-size:80px;
+    font-weight:800px;
+    margin-top: 50px;
+    height: 100px;
+    font-family: ifamily;
+}
+.action{
+    
+    background: #090909;
+    width: 100%;
+    height: 100%;
+    
+}
+h2{
+    color: #86868b;
+    max-width: 1000px;
+    margin-left: 50px;
+    margin-top: 100px;
+    font-family: ifamily;
+    font-size: medium;
+}
+.iphone{
+    width: 100%;
+    height: 100%;
+}
+.font4{
+    width: 100%;
+    height: 100px;
+    color: white;
+    font-size:25px;
+    max-width: 1000px;
+    margin-left: 10%;
+    color: #86868b;
+    padding: 0px;
+    font-family: ifamily;
+    
+}
+.font5{
+    background: #090909;
+    height: 60px;
+    color: white;
+    font-size:larger;
+    margin-left: 500px;
+}
+.box2{
+    background: #090909;
+    width: 100%;
+    height: 100px;
+    
+}
+.button1{
+    color: white;
+    background: black;
+    margin-left: 35%;
+    padding: 8px 22px;
+    border-radius: 60px;
+    width: 150px;
+    height: 50px;
+    border-color: antiquewhite;
+    border-width: 3px;
+    font-size: large;
+    margin-top: 20px;
+    
+
+}
+.button2{
+    color: white;
+    background: black;
+    margin-left: 1%;
+    padding: 8px 22px;
+    border-radius: 60px;
+    width: 150px;
+    height: 50px;
+    border-color: antiquewhite;
+    border-width: 3px;
+    font-size: large;
+}
+.iphone15{
+    width: 100%;
+    height: 1000px;
+    background:black;
+    position: relative;
+    z-index: 1;
+
+    
+}
+.phone{
+   max-width: 229;
+    max-height: 1166px;
+    margin-left: 39%;
+    margin-top: 50px;
+    
+    
+}
+
+.container2{
+    width: 100%;
+    height: 100%;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    z-index: 1;
+    position: relative;
+
+}
+.headfont{
+    width: 100%;
+    height: 216px;
+    margin-left: 130px;
+    font-family: ifamily;
+    
+    
+}
+h5{
+    
+    
+    font-size:80px;
+    font-weight: 800px;
+    font-family: ifamily;
+    margin-left: 300px;
+    height: 250px;
+    
+}
+.subfont{
+    color: #86868b;
+    max-width: 1000px;
+    margin-left: 7%;
+    margin-top: 30px;
+    font-size: 25px;
+   padding-left: 50px;
+   font-family: ifamily;
+   max-width: 1000px;
+
+}
+.light{
+    margin-left: 500px;
+    font-size: larger;
+}
+.button3{
+    color:black;
+    background: white;
+    margin-left: 35%;
+    padding: 8px 22px;
+    border-radius: 60px;
+    width: 150px;
+    height: 50px;
+    border-color: black;
+    border-width: 3px;
+    font-size: large;
+
+}
+.button3:hover {
+    background-color: black;
+    color: white;
+  }
+  .button4:hover {
+    background-color: black;
+    color: white;
+  }
+
+.button4{
+    color: black;
+    background:white;
+    margin-left: 1%;
+    padding: 8px 22px;
+    border-radius: 60px;
+    width: 150px;
+    height: 50px;
+    border-color: black;
+    border-width: 3px;
+    font-size: large;
+    
+}
+.pink{
+    margin-top: 100px;
+    width: 100%;
+}
+.ilogo{
+    margin-left: 450px;
+    margin-top: 100px;
+    color: aliceblue;
+}
+.container3{
+    background:black;
+    width: 100%;
+    height: 100%;
+}
+.box4{
+    background: black;
+}
+.font7{
+    background: black;
+    height: 60px;
+    color: white;
+    font-size:larger;
+    margin-left: 500px;
+
+}
+.hero{
+    width: 100%;
+}
+.watch{
+    background: white;
+}
+.ultra{
+    margin-left: 440px;
+    margin-top: 20px;
+}
+.button1:hover {
+    background-color: white;
+    color: black;
+  }
+  .button2:hover {
+    background-color: white;
+    color: black;
+  }
+  .button:hover {
+    background-color: white;
+    color: black;
+  }
+  #hai{
+    color: #86868b;
+    max-width: 1000px;
+    margin-left: 7%;
+    margin-top: 30px;
+    font-size: 25px;
+   padding-left: 50px;
+   max-width: 1000px;
+   background: white;
+  }
+  .button7{
+    color:black;
+    background: white;
+    margin-left: 1%;
+    padding: 8px 22px;
+    border-radius: 60px;
+    width: 150px;
+    height: 50px;
+    border-color: black;
+    border-width: 3px;
+    font-size: large;
+
+  }
+  .button7:hover {
+    background-color: black;
+    color: white;
+  }
+  .iwatch{
+    width: 100%;
+    margin-top: 50px;
+    padding: 40px;
+
+  }
+  .carbon{
+    background: white;
+    width: 100%;
+    height: 726px;
+  }
+  .leaf{
+    margin-top: 100px;
+    margin-left: 300px;
+
+  }
+  .footer{
+    background: black;
+    color: white;
+    height: 100%;
+  }
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+  }
+  footer{
+    background: black;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    position: relative;
+  }
+  .foot{
+    color: white;
+    
+   
+  }
+  #head{
+    margin-left: 115px;
+  }
+  #para2{
+    margin-left: 115px;
+    font-size: small;
+  }
+  .superwatch{
+    margin-left: 450px;
+    margin-top: 90px;
+  }
+  a:hover{
+    color: #86868b;
+    transition: 1.2s;
+    text-decoration: underline;
+  }
+  
